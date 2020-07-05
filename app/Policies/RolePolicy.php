@@ -92,5 +92,6 @@ class RolePolicy
     public function forceDelete(User $user, Role $role)
     {
         //
+        //nothing done yet
     }
 }
